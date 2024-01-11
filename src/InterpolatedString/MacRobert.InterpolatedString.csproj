@@ -13,13 +13,13 @@
     <PackageDescription>Make brace-interpolated-strings re-usable in .NET</PackageDescription>    
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <ProjectUrl>https://github.com/macrobert-com/InterpolatedString</ProjectUrl>
+    <RepositoryUrl>https://github.com/macrobert-com/InterpolatedString</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="assets/images/icon.png" Pack="true" PackagePath="\"/>
+    <None Include="../../../icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
