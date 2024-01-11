@@ -4,7 +4,7 @@
     <!-- or the target framework you're using -->
     <TargetFramework>net8.0</TargetFramework>
     <!-- Common Project tags-->
-	<Version>1.0.6</Version>
+    <Version>1.0.6</Version>
     <Authors>Martin MacRobert</Authors>
     <Company>MacRobert.com</Company>
     <Copyright>Copyright &#xA9; $(Year) MacRobert.com</Copyright>
