@@ -8,7 +8,6 @@
 
   <PropertyGroup>
     <!-- NuGet properties -->
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>MacRobert.InterpolatedString</PackageId>
     <PackageDescription>Make brace-interpolated-strings re-usable in .NET</PackageDescription>    
     <IncludeSymbols>True</IncludeSymbols>
